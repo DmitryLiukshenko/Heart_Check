@@ -6,6 +6,6 @@ from kivy.app import App
 # Создадим класс-наследник App. В нём будет дописываться функционал приложения.
 class MyApp(App):
    pass
-
+#оваожывдодав
 app = MyApp()
 app.run()
